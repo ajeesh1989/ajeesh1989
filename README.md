@@ -3,9 +3,9 @@
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeesh1989&label=Profile%20views&color=0e75b6&style=flat" alt="ajeesh1989" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeesh1989" alt="ajeesh1989" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeesh1989&label=Profile%20views&color=0e75b6&style=flat" alt="ajeesh1989" /> </p>
 
 - 🔭 I’m currently working on **freelancer**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajeesh1989/ajeesh1989](https://github.com/ajeesh1989/ajeesh1989)
 
-- 💬 Ask me about **flutter,dart,adobe premier pro**
+- 💬 Ask me about **flutter,dart,adobe premier pro, figma**
 
 - 📫 How to reach me **ajeeshrko@gmail.com**
 
