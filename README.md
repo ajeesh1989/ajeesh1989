@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeesh1989&label=Profile%20views&color=0e75b6&style=flat" alt="ajeesh1989" /> </p>
 
-- 🔭 I’m currently working on **freelancer**
+- 🔭 I’m currently working on **Towner solutions pvt ltd, Bangalore**
 
 - 🌱 I’m currently learning **Firebase, serverpod and creation of packages in flutter**
 
