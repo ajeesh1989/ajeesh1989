@@ -1,9 +1,12 @@
-![](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/74/d0/06/74d00626189f90860a679783b369d294.gif" alt="Coding Banner" width="800" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Ajeesh Das H</h1>
 <h3 align="center">🚀 Flutter Developer | UI/UX Enthusiast | Mobile App Creator</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajeesh1989&label=Profile%20views&color=0e75b6&style=flat" alt="ajeesh1989" />
 </p>
 
@@ -36,19 +39,20 @@
 ---
 
 ### 🛠️ Skills & Tools  
-#### Mobile Development  
+
+#### 📱 Mobile Development  
 - Flutter, Dart, GetX, Provider  
 
-#### UI/UX Design  
+#### 🎨 UI/UX Design  
 - Figma, Adobe XD  
 
-#### Backend & Databases  
+#### ⚡ Backend & Databases  
 - Firebase, Supabase, Hive, API Integration  
 
-#### Web Development (Beginner–Intermediate)  
+#### 🌍 Web Development (Beginner–Intermediate)  
 - Next.js, Node.js, HTML, CSS, JavaScript  
 
-#### Tools & Integrations  
+#### 🔧 Tools & Integrations  
 - Git/GitHub, Razorpay, Google Maps, Twilio (Supabase), OneSignal Notifications  
 
 ---
