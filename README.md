@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/74/d0/06/74d00626189f90860a679783b369d294.gif" alt="Coding Banner" width="800" />
+  <img src="[[https://i.pinimg.com/originals/74/d0/06/74d00626189f90860a679783b369d294.gif](https://assets.lottiefiles.com/temp/path-to-your-animation.gif)" alt="Coding Banner" width="800" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajeesh Das H</h1>
