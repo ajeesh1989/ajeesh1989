@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/74/d0/06/74d00626189f90860a679783b369d294.gif" alt="Coding Banner" width="800" />
+  <img src="[https://i.pinimg.com/originals/74/d0/06/74d00626189f90860a679783b369d294.gif](https://in.pinterest.com/pin/844493675502847/)" alt="Coding Banner" width="800" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajeesh Das H</h1>
