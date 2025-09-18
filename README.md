@@ -1,6 +1,8 @@
-<!-- Profile Banner -->
+<!-- Banner Animation -->
 <p align="center">
-  <img src="[[https://i.pinimg.com/originals/74/d0/06/74d00626189f90860a679783b369d294.gif](https://assets.lottiefiles.com/temp/path-to-your-animation.gif)" alt="Coding Banner" width="800" />
+  <a href="https://app.lottiefiles.com/share/0a139552-3a7d-4e05-9ef7-0d5ddd774620" target="_blank">
+    <img src="https://lottie.host/embed/0a139552-3a7d-4e05-9ef7-0d5ddd774620/nqV1zPQwnV.gif" alt="Flutter Animation Banner" width="800" />
+  </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajeesh Das H</h1>
@@ -40,19 +42,19 @@
 
 ### 🛠️ Skills & Tools  
 
-#### 📱 Mobile Development  
+#### Mobile Development  
 - Flutter, Dart, GetX, Provider  
 
-#### 🎨 UI/UX Design  
+#### UI/UX Design  
 - Figma, Adobe XD  
 
-#### ⚡ Backend & Databases  
+#### Backend & Databases  
 - Firebase, Supabase, Hive, API Integration  
 
-#### 🌍 Web Development (Beginner–Intermediate)  
+#### Web Development (Beginner–Intermediate)  
 - Next.js, Node.js, HTML, CSS, JavaScript  
 
-#### 🔧 Tools & Integrations  
+#### Tools & Integrations  
 - Git/GitHub, Razorpay, Google Maps, Twilio (Supabase), OneSignal Notifications  
 
 ---
