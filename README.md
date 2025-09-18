@@ -1,12 +1,12 @@
-<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/38/20/31/382031980909494389.jpg" alt="Banner" width="1000" />
+  <!-- Replace banner.png with your downloaded Pinterest image -->
+  <img src="images/banner.png" alt="Banner Image" width="800" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajeesh Das H</h1>
 <h3 align="center">🚀 Flutter Developer | UI/UX Enthusiast | Mobile App Creator</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ajeesh1989&label=Profile%20views&color=0e75b6&style=flat" alt="ajeesh1989" />
 </p>
 
