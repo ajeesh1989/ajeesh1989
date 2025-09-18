@@ -1,8 +1,6 @@
-<!-- Banner Animation -->
+<!-- Banner Image -->
 <p align="center">
-  <a href="https://app.lottiefiles.com/share/0a139552-3a7d-4e05-9ef7-0d5ddd774620" target="_blank">
-    <img src="https://lottie.host/embed/0a139552-3a7d-4e05-9ef7-0d5ddd774620/nqV1zPQwnV.gif" alt="Flutter Animation Banner" width="800" />
-  </a>
+  <img src="https://i.pinimg.com/originals/38/20/31/382031980909494389.jpg" alt="Banner" width="1000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajeesh Das H</h1>
@@ -41,7 +39,6 @@
 ---
 
 ### 🛠️ Skills & Tools  
-
 #### Mobile Development  
 - Flutter, Dart, GetX, Provider  
 
