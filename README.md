@@ -1,321 +1,229 @@
 <div align="center">
 
-<img src="images/banner.png" width="100%" alt="Ajeesh Das H — Flutter Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=240&section=header&text=Ajeesh%20Das%20H&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Flutter%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20Cloud&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" />
 
 <br>
 
-# 👋 Hey, I'm **Ajeesh Das H**
-
-### `Flutter Developer` · `Mobile` · `Web` · `Cloud`
-
-**I build apps for mobile, web & cloud.**
-
-<br>
-
-<a href="https://github.com/ajeesh1989">
-  <img src="https://img.shields.io/github/followers/ajeesh1989?label=Followers&style=flat-square&logo=github" />
-</a>
-&nbsp;
-<a href="https://github.com/ajeesh1989?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-181717?style=flat-square&logo=github" />
-</a>
-&nbsp;
-<a href="mailto:ajeeshrko@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ajeesh1989&label=Profile%20Views&color=7c3aed&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=ajeesh1989&label=PROFILE%20VIEWS&color=111827&style=flat-square" alt="Profile views" />
 
 </div>
 
----
-
-## 🧑‍💻 A little about me
-
-I'm a **Flutter Developer from Kerala, India**, focused on building practical, polished applications across **mobile, web and cloud**.
-
-My background is a little different from the usual developer journey. I started my career in **finance, banking and operations**, then moved into software development — bringing business understanding into the way I build products.
-
-Today, I work across the full development cycle:
-
-```text
-Idea
-  ↓
-UI / UX
-  ↓
-Flutter Development
-  ↓
-APIs & Backend
-  ↓
-Database
-  ↓
-Cloud & Deployment
-  ↓
-Production
-```
-
-I enjoy turning ideas into working products — especially applications that solve a real problem rather than simply demonstrating a technology.
-
----
-
-## ⚡ What I work with
+<br>
 
 <div align="center">
 
-### 📱 Mobile
+# Flutter Developer
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" />
+### Building products that are simple to use and hard to forget.
 
-### 🌐 Web
+**Mobile · Web · Cloud**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
+<br>
 
-### ☁️ Backend & Cloud
+[GitHub](https://github.com/ajeesh1989) ·
+[LinkedIn](https://www.linkedin.com/in/ajeesh-das-h-601938128/) ·
+[Email](mailto:ajeeshrko@gmail.com)
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mongodb,fastapi" />
+</div>
 
-### 🛠️ Tools & Deployment
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,cloudflare,docker" />
+## About
+
+I'm **Ajeesh Das H**, a Flutter developer from **Kerala, India**.
+
+I build applications across **mobile, web and cloud**, taking products from an idea to a working production experience.
+
+Before software development, I worked across **finance, banking and business operations**. That background influences how I approach software — not just from a technical perspective, but from the perspective of **users, business problems and practical outcomes**.
+
+> **Think clearly. Build simply. Ship properly.**
+
+---
+
+## What I do
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,supabase,postgres,mongodb,nextjs,js,git,github&perline=6" alt="Technology stack" />
 
 </div>
 
 <br>
 
-| Area                     | Technologies                                        |
-| ------------------------ | --------------------------------------------------- |
-| **Mobile**               | Flutter · Dart · Android · Kotlin                   |
-| **State Management**     | Provider · GetX                                     |
-| **Backend**              | Firebase · Supabase · REST APIs · FastAPI           |
-| **Databases**            | PostgreSQL · MongoDB · Firestore · SQLite · Isar    |
-| **Web**                  | HTML · CSS · JavaScript · Next.js                   |
-| **Maps & Location**      | Google Maps · Live Tracking · Route Guidance        |
-| **Deployment**           | Vercel · Netlify · Firebase Hosting · Render        |
-| **Payments & Messaging** | Razorpay · FCM · OneSignal                          |
-| **Other**                | Git · GitHub · DNS · Android Release / Play Console |
-| **AI**                   | AI-assisted development & modern AI workflows       |
+|                  |                                                              |
+| ---------------- | ------------------------------------------------------------ |
+| **Mobile**       | Flutter · Dart · Kotlin · Android · Jetpack Compose          |
+| **Web**          | Next.js · JavaScript · HTML · CSS · Responsive UI            |
+| **Backend**      | Firebase · Supabase · REST APIs · FastAPI                    |
+| **Database**     | PostgreSQL · MongoDB · Firestore · SQLite · Isar · IndexedDB |
+| **Architecture** | Provider · GetX · Clean Architecture · Offline-first         |
+| **Services**     | Google Maps · Razorpay · FCM · OneSignal                     |
+| **Deployment**   | Vercel · Netlify · Firebase Hosting · Render · Play Console  |
+| **Tools**        | Git · GitHub · Android Studio · AI-assisted development      |
 
 ---
 
-# 🚀 Things I've built
+## Selected Work
 
-I like building projects that are actually usable — not just tutorial apps.
+### 📻 Orbit
 
-### 🎨 Nayanas Artistry
+**Radio for every direction.**
 
-A modern eCommerce experience for an artist and art educator.
+A minimal global radio experience built with Kotlin and Jetpack Compose.
 
-**Flutter · Web · Firebase · Responsive UI**
+`Kotlin` `Jetpack Compose` `Media3` `Android`
 
 ---
 
 ### 🦷 B Dentistry
 
-An **offline-first dental clinic application** designed around real-world clinic workflows.
+**Offline-first clinic software.**
 
-**Flutter · Isar · Provider · Offline-first architecture**
+A practical dental clinic application designed around real-world clinic workflows.
 
----
-
-### 📻 Orbit
-
-A minimal **global radio experience** built around the idea of travelling through different directions, stations and sounds.
-
-**Kotlin · Jetpack Compose · Media3 · Android**
-
-> **“Radio for every direction.”** 🛰️
+`Flutter` `Isar` `Provider` `Offline-first`
 
 ---
 
 ### 🎨 ARtist
 
-A creative drawing application focused on turning simple sketches into artwork.
+**A small canvas for big ideas.**
 
-**Flutter · Canvas · Local Storage · Premium Features**
+A creative drawing application focused on a simple and expressive experience.
+
+`Flutter` `Canvas` `Local Storage`
 
 ---
 
 ### 🧩 Grid2Art
 
-A grid-based art application designed for artists who want to transfer drawings accurately.
+**Turn a grid into artwork.**
 
-**Flutter · Drawing Tools · Custom UI**
+A drawing tool designed to help artists accurately reproduce images using grids.
 
----
-
-### 🚕 OIOT Taxi
-
-A taxi booking application with maps, routing, wallet functionality, trip history and real-time notifications.
-
-**Flutter · Provider · REST APIs · Google Maps · FCM**
+`Flutter` `Custom UI` `Drawing`
 
 ---
 
 ### 📋 Government Notice Tracker
 
-A browser-based application for organizing government notices, PDF documents and deadlines.
+**Important notices. One place.**
 
-**JavaScript · IndexedDB · Gmail API · PDF.js · Google OAuth**
+A browser-based application for managing government notices, PDF documents and deadlines.
 
----
-
-## 🧠 My development philosophy
-
-> **Build simple.
-> Make it useful.
-> Make it feel good.
-> Ship it.**
-
-I care about more than just making an application compile.
-
-Good software should have:
-
-* 🎯 A clear purpose
-* ✨ A thoughtful interface
-* ⚡ Good performance
-* 🧩 Maintainable code
-* 🔐 Sensible security
-* 📱 Real-world usability
-* 🚀 A reliable deployment process
+`JavaScript` `IndexedDB` `Gmail API` `PDF.js`
 
 ---
 
-# 💼 Experience
+## Experience
 
-### 🏢 Santa Burners Studio Pvt. Ltd.
+**Santa Burners Studio Pvt. Ltd.**
+`Chief Financial Officer` · Oct 2025 — May 2026
 
-**Chief Financial Officer** · `Oct 2025 – May 2026`
+Corporate finance, budgeting, forecasting, resource allocation, investor relations and regulatory compliance.
 
-* Corporate financial strategy
-* Budgeting & forecasting
-* Resource allocation
-* Investor relations & early-stage funding
-* Regulatory compliance
-* Financial analysis & executive decision support
+<br>
 
----
+**Freelance**
+`Flutter & Web Developer` · 2022 — Present
 
-### 💻 Freelance
+Building custom mobile and web applications using Flutter, Firebase, Supabase, PostgreSQL and modern web technologies.
 
-**Flutter & Web Developer** · `2022 – Present`
+<br>
 
-* Built custom mobile and web applications
-* Flutter + Firebase + Supabase + PostgreSQL + MongoDB
-* Responsive websites and web applications
-* Authentication and API integrations
-* Payment gateways
-* Google Maps integrations
-* Notifications and real-time features
-* Deployment and production maintenance
+**Towner Solutions Pvt. Ltd.**
+`Mobile Application Developer` · Mar 2024 — Aug 2024
 
----
+Worked on the OIOT Taxi application with maps, routing, ride booking, wallet, trip history and real-time notifications.
 
-### 🚕 Towner Solutions Pvt. Ltd.
+<br>
 
-**Mobile Application Developer** · `Mar 2024 – Aug 2024`
+**ESAF Bank**
+`Assistant Manager` · May 2017 — Mar 2022
 
-Worked on the **OIOT Taxi User App**, including:
+Credit analysis, retail and MSME lending, risk evaluation, KYC, compliance and branch operations.
 
-* Ride booking
-* Maps and routing
-* REST API integration
-* Provider state management
-* Wallet
-* Trip history
-* FCM notifications
-* Interactive mobile UI
+<br>
+
+**United Trading Company**
+`Marketing Executive — FMCG Distribution` · Sep 2013 — Aug 2016
+
+Billing, invoicing, stock management, retailer relationships, promotions and operations.
 
 ---
 
-### 🏦 ESAF Bank
+## Education
 
-**Assistant Manager** · `May 2017 – Mar 2022`
-
-Experience across:
-
-* Credit analysis
-* Retail & MSME lending
-* Risk evaluation
-* KYC & compliance
-* Branch operations
-* Cash management
-* Team leadership
-* Staff training
-
----
-
-### 📦 United Trading Company
-
-**Marketing Executive — FMCG Distribution** · `Sep 2013 – Aug 2016`
-
-Worked across:
-
-* Billing & invoicing
-* Ledgers
-* Stock management
-* Retailer relationships
-* Product promotions
-* Recruitment & attendance
-* Basic payroll operations
-
----
-
-# 🎓 Education
-
-**Master of Business Administration (MBA)**
+**MBA — Master of Business Administration**
 University of Calicut
 
-**Bachelor of Commerce (B.Com)**
+**B.Com — Bachelor of Commerce**
 University of Calicut
 
 ---
 
-# 📊 GitHub
+## Engineering Philosophy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajeesh1989&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=64748B&center=true&vCenter=true&width=600&height=50&lines=Build+simple.;Make+it+useful.;Make+it+feel+good.;Ship+it." alt="Engineering philosophy" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeesh1989&layout=compact&hide_border=true" height="170" />
+</div>
+
+<br>
+
+**01 — Purpose**
+
+Build software that solves an actual problem.
+
+**02 — Simplicity**
+
+Keep interfaces and code understandable.
+
+**03 — Quality**
+
+Care about performance, architecture and details.
+
+**04 — Product**
+
+Think beyond the feature and consider the complete experience.
+
+**05 — Shipping**
+
+A good product should eventually reach the people who need it.
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajeesh1989&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github&include_all_commits=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeesh1989&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&langs_count=8" height="170" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ajeesh1989&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ajeesh1989&hide_border=true&background=00000000&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" width="70%" />
 
 </div>
 
 ---
 
-# 🐍 A little GitHub activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ajeesh1989/ajeesh1989/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-
-</div>
-
----
-
-# 🌍 Let's connect
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/ajeesh1989">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/ajeesh-das-h-601938128/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:ajeeshrko@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/ajeesh_aj_abi/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -324,12 +232,12 @@ University of Calicut
 
 <div align="center">
 
-### 💙 Thanks for visiting
+### Have an idea?
 
-**If something here catches your eye, feel free to explore the repositories.**
+**Let's turn it into something real.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
